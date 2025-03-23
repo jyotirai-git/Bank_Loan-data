@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+#g{
+    width: 93px;
+    height: 33px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#g:hover{
+    background-color: brown;
+}
+
+#abc{
+    width: 123px;
+    height: 33px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#abc:hover{
+    background-color: burlywood);
+
+}
+
